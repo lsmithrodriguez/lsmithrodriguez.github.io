@@ -1,0 +1,1 @@
+<?php echo "Hello! Welcome to my website that showcases my coding talents!" ?>
